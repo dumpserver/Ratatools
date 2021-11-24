@@ -1,0 +1,6 @@
+module Pods_Ratatools {
+  umbrella header "Pods-Ratatools-umbrella.h"
+
+  export *
+  module * { export * }
+}
